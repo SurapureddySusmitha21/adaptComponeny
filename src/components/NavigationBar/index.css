@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+  }
+  .p{
+    color:blue;
+    font-size:20px;
+    font-weight:bold;
+    text-decoration: underline;
+  }
+  .paragraph{
+  
+    font-size:15px;
+    font-weight:bold;
+   
+  }

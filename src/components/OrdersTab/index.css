@@ -1,0 +1,47 @@
+.orders-tab {
+    background-color: #eee;
+    padding: 10px;
+  }
+  
+  .orders-tab ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .orders-tab li {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  .order-p{
+    color:black;
+    border: 1px solid red;
+    padding:20px;
+    font-size:17px;
+    font-weight: 500;
+    width:10%;
+  }
+   .order-s{
+    color:rosybrown;
+    border: 1px solid gray;
+    padding:20px;
+    font-size:17px;
+    font-weight: 500;
+    width:10%;
+  }
+  .orders-tab{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .refr{
+    background-color: blue;
+    border: transparent;
+    color:#ffffff;
+    padding:20px;
+    font-size:17px;
+    font-weight: 500;
+    width:10%;
+    align-self:  flex-end;
+    margin-left: 70px;
+  }
